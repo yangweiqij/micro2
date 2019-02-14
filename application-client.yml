@@ -5,7 +5,7 @@ eureka:
 ---
 spring:
   profiles: client
-words: I am config-client
+words: I am config-client22
 
 ---
 spring:
